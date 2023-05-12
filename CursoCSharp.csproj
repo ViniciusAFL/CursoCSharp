@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Fundamentos\EstruturasDeControle\**" />
+    <EmbeddedResource Remove="Fundamentos\EstruturasDeControle\**" />
+    <None Remove="Fundamentos\EstruturasDeControle\**" />
+  </ItemGroup>
+
 </Project>
