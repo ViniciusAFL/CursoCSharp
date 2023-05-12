@@ -11,7 +11,7 @@ namespace CursoCSharp.Fundamentos
         public static void Executar()
         { 
             
-           /* Console.WriteLine("Digite um numero:");
+            Console.WriteLine("Digite um numero:");
 
             int numero1 = int.Parse(Console.ReadLine());
 
@@ -21,7 +21,7 @@ namespace CursoCSharp.Fundamentos
 
             int soma = numero1 + numero2;
 
-            Console.WriteLine($"A soma deu: {soma}"*//*);*/
+            Console.WriteLine($"A soma deu: {soma}");
 
 
             Console.WriteLine("Digite a base do triangulo:");

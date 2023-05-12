@@ -12,7 +12,8 @@ namespace CursoCSharp {
                 {"Notação Ponto - Fundamentos",NotacaoPonto.Executar },
                 {"Lendo Dados - Fundamentos",LendoDados.Executar },
                 {"Formatando Numeros - Fundamentos",FormatandoNumeros.Executar },
-                {"Operadores Aritmeticos - Fundamentos",OperadoresAritmeticos.Executar }
+                {"Operadores Aritmeticos - Fundamentos",OperadoresAritmeticos.Executar },
+                {"Exercicios Operadores - Fundamentos",ExerciciosOperadores.Executar }
             });
 
             central.SelecionarEExecutar();
