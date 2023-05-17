@@ -20,7 +20,10 @@ namespace CursoCSharp {
 
                 // Estrutura de Controle
                 {"EstuturaIf",EstruturaIf.Executar },
-                {"Exerciciosif",Exerciciosif.Executar }
+                {"Exerciciosif",Exerciciosif.Executar },
+                {"Convertendo Com Try Parse",ConvertendoComTryParse.Executar },
+                {"Estrutura Switch",EstruturaSwitch.Executar },
+                {"Estrutura While e For",EstruturaWhileEFor.Executar }
             });
 
             central.SelecionarEExecutar();
