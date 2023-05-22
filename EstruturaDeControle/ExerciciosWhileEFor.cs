@@ -27,7 +27,6 @@ namespace CursoCSharp.EstruturaDeControle
             int contador = 1;
             while (contador<=valor)
             {
-               
                 Console.WriteLine($"{contador}");
                 contador++;
             }
