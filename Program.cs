@@ -23,7 +23,8 @@ namespace CursoCSharp {
                 {"Exerciciosif",Exerciciosif.Executar },
                 {"Convertendo Com Try Parse",ConvertendoComTryParse.Executar },
                 {"Estrutura Switch",EstruturaSwitch.Executar },
-                {"Estrutura While e For",EstruturaWhileEFor.Executar }
+                {"Estrutura While e For",EstruturaWhileEFor.Executar },
+                {"Exercicios While e For",ExerciciosWhileEFor.Executar }
             });
 
             central.SelecionarEExecutar();
