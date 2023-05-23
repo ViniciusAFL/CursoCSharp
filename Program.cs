@@ -31,7 +31,7 @@ namespace CursoCSharp {
 
                 //Classes e Metodos
                 {"Membros",Membros.Executar },
-                
+                {"Construtores",Construtores.Executar }
             });
 
             central.SelecionarEExecutar();
