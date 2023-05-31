@@ -38,7 +38,9 @@ namespace CursoCSharp {
                 {"Params ",Params.Executar },
                 {"Get E set",GetSet.Executar },
                 {"Get E Set Segundo Exemplo",GetESetSegundoExemplo.Executar },
-                {"AAAAAAAAAAAAAAAAAAAAA",Exercicio1GetESET.Executar }
+                {"Exercicio 1 Get E Set",Exercicio1GetESET.Executar },
+                {"Exercicio 2 Get E Set",Exercicio2GetESet.Executar },
+                {"Exercicio 3 Get E Set",Exercicio3GetESet.Executar }
             });
 
             central.SelecionarEExecutar();
