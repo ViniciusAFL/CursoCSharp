@@ -35,7 +35,7 @@ namespace CursoCSharp.Colecoes
 
             double media = somatorio / notas.Length;
 
-            Console.WriteLine(media);
+            Console.WriteLine(media.ToString("#.##"));
 
         }
     }

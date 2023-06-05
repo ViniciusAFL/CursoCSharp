@@ -44,7 +44,9 @@ namespace CursoCSharp {
                 {"Exercicio 3 Get E Set",Exercicio3GetESet.Executar },
 
                 //Coleções
-                {"Arrays",Arrays.Executar }
+                {"Arrays",Arrays.Executar },
+                {"Queue",ColecoesQueue.Executar },
+                {"Coleções Stack",ColecoesStack.Executar }
 
             });
 
