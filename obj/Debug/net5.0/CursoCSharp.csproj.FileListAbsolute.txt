@@ -30,3 +30,6 @@ C:\Users\vinicius.afluiz\source\repos\ViniciusAFL\CursoCSharp\obj\Debug\net5.0\C
 C:\Users\vinicius.afluiz\source\repos\ViniciusAFL\CursoCSharp\obj\Debug\net5.0\ref\CursoCSharp.dll
 C:\Users\vinicius.afluiz\source\repos\ViniciusAFL\CursoCSharp\obj\Debug\net5.0\CursoCSharp.pdb
 C:\Users\vinicius.afluiz\source\repos\ViniciusAFL\CursoCSharp\obj\Debug\net5.0\CursoCSharp.genruntimeconfig.cache
+C:\Users\vinicius.afluiz\Source\Repos\ViniciusAFL\CursoCSharp\bin\Debug\net5.0\Encapsulamento.dll
+C:\Users\vinicius.afluiz\Source\Repos\ViniciusAFL\CursoCSharp\bin\Debug\net5.0\Encapsulamento.pdb
+C:\Users\vinicius.afluiz\Source\Repos\ViniciusAFL\CursoCSharp\obj\Debug\net5.0\CursoCSharp.csproj.CopyComplete

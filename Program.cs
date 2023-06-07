@@ -5,6 +5,7 @@ using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturaDeControle;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.POO;
 
 namespace CursoCSharp {
     class Program {
@@ -46,7 +47,12 @@ namespace CursoCSharp {
                 //Coleções
                 {"Arrays",Arrays.Executar },
                 {"Queue",ColecoesQueue.Executar },
-                {"Coleções Stack",ColecoesStack.Executar }
+                {"Coleções Stack",ColecoesStack.Executar },
+
+                //POO
+                {"Herença",Herenca.Executar },
+                {"Construtor this-PDO",ConstrutorThis.Executar },
+                {"Encapsulamento",Encapsulamento.Executar }
 
             });
 
