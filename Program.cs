@@ -53,6 +53,8 @@ namespace CursoCSharp {
                 {"Herença",Herenca.Executar },
                 {"Construtor this-PDO",ConstrutorThis.Executar },
                 {"Encapsulamento",POO.Encapsulamento.Executar },
+                {"Polimorfismo",Polimorfismo.Executar },
+                {"Exercicio Polimorfismo",ExercicioPolimorfismo.Executar }
 
             });
 

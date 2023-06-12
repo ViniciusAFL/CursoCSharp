@@ -27,9 +27,6 @@ namespace CursoCSharp.POO
     class Encapsulamento
     {
 
-
-
-
         public static void Executar()
         {
             SubCelebridade sub = new SubCelebridade();
@@ -37,7 +34,6 @@ namespace CursoCSharp.POO
 
             new FilhoReconhecido().MeusAcessos();
             new AmigoProximo().MeusAcessos();
-
 
             new FilhoNaoReconhecido().MeusAcessos();
 
