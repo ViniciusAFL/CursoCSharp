@@ -52,7 +52,7 @@ namespace CursoCSharp {
                 //POO
                 {"Herença",Herenca.Executar },
                 {"Construtor this-PDO",ConstrutorThis.Executar },
-                {"Encapsulamento",Encapsulamento.Executar }
+                {"Encapsulamento",POO.Encapsulamento.Executar },
 
             });
 
