@@ -54,7 +54,8 @@ namespace CursoCSharp {
                 {"Construtor this-PDO",ConstrutorThis.Executar },
                 {"Encapsulamento",POO.Encapsulamento.Executar },
                 {"Polimorfismo",Polimorfismo.Executar },
-                {"Exercicio Polimorfismo",ExercicioPolimorfismo.Executar }
+                {"Exercicio Polimorfismo",ExercicioPolimorfismo.Executar },
+                {"Abstract",Abstract.Executar }
 
             });
 
